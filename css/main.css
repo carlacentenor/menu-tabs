@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+li {
+  display: inline-block;
+  list-style: none;
+  margin: 30px 5px 0px 30px;
+
+  }
+
+button {
+  width: 100px;
+  height: 50px;
+border: none;
+background-color: #86c4ec;
+}
+
+article {
+  width: 900px;
+  height: 900px;
+  margin: 20px;
+}
